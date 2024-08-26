@@ -48,3 +48,39 @@ static void dateTimeExemplos()
 
     Console.WriteLine(hoje);
 }
+
+int age = Convert.ToInt32(Console.ReadLine());
+
+bool a = (age == 41);
+
+Console.WriteLine($"a idade é 41: {a}");
+
+if (age < 18)
+{
+    Console.WriteLine("voce é menor de idade!");
+    return;
+    
+}
+
+if (age >= 65)
+{
+    Console.WriteLine("voce já é um idoso!");
+    return;
+}
+
+    Console.WriteLine("você é maior de idade");
+    Console.WriteLine("e voce tambem ja pode dirigir");
+
+    Console.WriteLine(RetornarEstacoesDoAno(DateTime.Now));
+    Console.WriteLine(RetornarEstacoesDoAno(new DateTime(2022, 1, 1)));
+    Console.WriteLine(RetornarEstacoesDoAno(new DateTime(2022, 5, 19)));
+    Console.WriteLine(RetornarEstacoesDoAno(new DateTime(2022, 10, 29)));
+
+    static string RetornarEstacoesDoAno(DateTime data) => data.Month switch
+    {
+        >= 3 and <= 6 => "Outono",
+        >= 6 and <= 9 => "Inverno",
+        >= 9 and <= 12 => "Primavera",
+        12 or (>=1 and <3) => "verão",
+        _=> "erro"
+    };
