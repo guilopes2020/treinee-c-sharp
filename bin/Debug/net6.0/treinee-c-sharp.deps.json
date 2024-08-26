@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "treinee-c-sharp/1.0.0": {
+        "runtime": {
+          "treinee-c-sharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "treinee-c-sharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

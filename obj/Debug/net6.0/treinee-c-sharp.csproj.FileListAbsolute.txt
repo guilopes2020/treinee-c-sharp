@@ -1,0 +1,15 @@
+/opt/lampp/htdocs/treinee-c-sharp/bin/Debug/net6.0/treinee-c-sharp
+/opt/lampp/htdocs/treinee-c-sharp/bin/Debug/net6.0/treinee-c-sharp.deps.json
+/opt/lampp/htdocs/treinee-c-sharp/bin/Debug/net6.0/treinee-c-sharp.runtimeconfig.json
+/opt/lampp/htdocs/treinee-c-sharp/bin/Debug/net6.0/treinee-c-sharp.dll
+/opt/lampp/htdocs/treinee-c-sharp/bin/Debug/net6.0/ref/treinee-c-sharp.dll
+/opt/lampp/htdocs/treinee-c-sharp/bin/Debug/net6.0/treinee-c-sharp.pdb
+/opt/lampp/htdocs/treinee-c-sharp/obj/Debug/net6.0/treinee-c-sharp.csproj.AssemblyReference.cache
+/opt/lampp/htdocs/treinee-c-sharp/obj/Debug/net6.0/treinee-c-sharp.GeneratedMSBuildEditorConfig.editorconfig
+/opt/lampp/htdocs/treinee-c-sharp/obj/Debug/net6.0/treinee-c-sharp.AssemblyInfoInputs.cache
+/opt/lampp/htdocs/treinee-c-sharp/obj/Debug/net6.0/treinee-c-sharp.AssemblyInfo.cs
+/opt/lampp/htdocs/treinee-c-sharp/obj/Debug/net6.0/treinee-c-sharp.csproj.CoreCompileInputs.cache
+/opt/lampp/htdocs/treinee-c-sharp/obj/Debug/net6.0/treinee-c-sharp.dll
+/opt/lampp/htdocs/treinee-c-sharp/obj/Debug/net6.0/ref/treinee-c-sharp.dll
+/opt/lampp/htdocs/treinee-c-sharp/obj/Debug/net6.0/treinee-c-sharp.pdb
+/opt/lampp/htdocs/treinee-c-sharp/obj/Debug/net6.0/treinee-c-sharp.genruntimeconfig.cache
